@@ -5,4 +5,4 @@ Email: afzx.ahmad@gmail.com
 
 ---
 
-_**Countdown Web App**_ is web application for count time from start to end of specific time.
+_**Countdown Web App**_ is a web application to count down from the start time to the end time of a time period that has been specified.
