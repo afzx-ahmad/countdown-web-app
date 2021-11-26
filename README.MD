@@ -1,6 +1,6 @@
 # Countdown Web App
 
-Author: afzx.ahmad
+Author: afzx.ahmad\
 Email: afzx.ahmad@gmail.com
 
 ---
